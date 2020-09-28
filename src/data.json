@@ -1,0 +1,35 @@
+[{
+        "storeName": "Coffee Bar",
+        "pinCode": 560036,
+        "storeImage": "https://via.placeholder.com/120x80",
+        "address": "No-19, Ground floor, Unit No. 37-38, Brigade Garden, Church Street Behind Mahatma Gandhi Road Metro Station, Bengaluru, Karnataka",
+        "latitude": "12.97123",
+        "longitude": "77.704259",
+        "items": [{
+                "name": "Tea",
+                "image": "https://via.placeholder.com/20x20"
+            },
+            {
+                "name": "Coffee",
+                "image": "https://via.placeholder.com/20x20"
+            }
+        ]
+    },
+    {
+        "storeName": "Chocolate Store",
+        "pinCode": 560037,
+        "storeImage": "https://via.placeholder.com/120x80",
+        "address": "No-19, Ground floor, Unit No. 37-38, Brigade Garden, Church Street Behind Mahatma Gandhi Road Metro Station, Bengaluru, Karnataka",
+        "latitude": "12.97123",
+        "longitude": "77.704259",
+        "items": [{
+                "name": "Five Star",
+                "image": "https://via.placeholder.com/20x20"
+            },
+            {
+                "name": "Yoga Bar",
+                "image": "https://via.placeholder.com/20x20"
+            }
+        ]
+    }
+]
